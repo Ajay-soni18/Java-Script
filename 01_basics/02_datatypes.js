@@ -18,4 +18,4 @@ console.log(typeof ajay); // if varible is not intialised , datatype will be und
 //and you do not need to explicitly declare the type of a variable before using it. 
 //You can assign different types of values to a variable during its lifetime.
 
-const bigvalue = 8282222222222232292838n; // to convert in bigInt add n at the end it will store as BigINT
+const bigvalue = 8282222222222232292838n; // to convert in bigInt add n at the end it will store a BigINT
