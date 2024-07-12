@@ -24,4 +24,3 @@ for (const key in programming) { // for array key represents the index
 // for (const key in map) { // You can not itrate from for in loop in map
 //     console.log(key);
 // }
-//
