@@ -1,0 +1,45 @@
+html{
+    margin: 0;
+}
+.container{
+    width : 400px;
+    height : 400px;
+    background-color:black;
+    border-radius: 10px;
+    padding:20px; 
+    color: white; 
+}
+#height,#weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 10px; 
+    margin-left: 10px;
+    border-radius: 5px;
+}
+#Weight-guide{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin-left: 111px;
+    margin-top: 12px;
+    background-color: chartreuse;
+    padding: 1px 1px;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+#results{
+    font-size: 20px;
+    margin-top: 14px;
+    margin-left: 80px;
+    color: rgb(160, 0, 0);
+}
+h1{
+    text-align: center;
+    color: red;
+}
+  
